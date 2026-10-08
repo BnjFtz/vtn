@@ -13,13 +13,6 @@
 
 http://38.7.195.44:8000/play/a0e7
 
-#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium Chile HD Primera Opción" tvg-logo="https://assets.tntsports.cl/__export/1717429358229/sites/cdfchile/img/2024/06/03/go9oooewiaarlgz_1_crop1717429357723.jpg_554688468.jpg" group-title="Deportes",TNT Sports Premium Chile
-
-http://38.7.195.44:8000/play/a0e7
-
-#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium Chile HD Opción 2" tvg-logo="https://assets.tntsports.cl/__export/1717429358229/sites/cdfchile/img/2024/06/03/go9oooewiaarlgz_1_crop1717429357723.jpg_554688468.jpg" group-title="Deportes",TNT Sports Premium Chile
-http://38.7.195.44:8000/play/a0e7
-
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium Chile SD" tvg-logo="https://assets.tntsports.cl/__export/1717429358229/sites/cdfchile/img/2024/06/03/go9oooewiaarlgz_1_crop1717429357723.jpg_554688468.jpg" group-title="Deportes",TNT Sports Premium Chile 
 http://45.181.120.147:9800/play/110/index.m3u8
 
